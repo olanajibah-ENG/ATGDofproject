@@ -166,3 +166,6 @@ dump.rdb
 # MongoDB
 *.lock
 mongod.lock
+*.key
+secrets/
+config_private.py
